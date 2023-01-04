@@ -113,7 +113,6 @@ body{
 @media screen and (min-width: 1440px) {
     main{
         width: 750px;
-        /* height: 470px; */
     }
     
     main img{
