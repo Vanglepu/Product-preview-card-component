@@ -121,14 +121,14 @@ body{
     .text #cat{
         font-size: 0.8em;
         bottom: 48em;
-        padding: 0 0 0 26rem;
+        padding-left: 26rem;
     }
     
     .text #title{
         font-size: 2.5rem;
         width: 230px;
         bottom: 15.5em;
-        padding: 0 0 0 26rem;
+        padding-left: 26rem;
     }
     
     .text #desc{
@@ -142,7 +142,7 @@ body{
         font-size: 2.6rem;
         width: 215px;
         bottom: 565px;
-        padding: 0 0 0 26rem;
+        padding-left: 26rem;
     }
     
     .text #price2{
