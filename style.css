@@ -126,27 +126,27 @@ body{
     
     .text #title{
         font-size: 2.5rem;
-        width: 230px;
+        width: 35%;
         bottom: 15.5em;
         padding-left: 26rem;
     }
     
     .text #desc{
         font-size: 1.3rem;
-        width: 305px;
+        width: 40%;
         bottom: 29em;
         padding-left: 26rem;
     }
     
     .text #price{
         font-size: 2.6rem;
-        width: 215px;
+        width: 40%;
         bottom: 565px;
         padding-left: 26rem;
     }
     
     .text #price2{
-        width: 215px;
+        width: 50%;
         bottom: 41.5em;
         padding-left: 37.5rem;
     }
