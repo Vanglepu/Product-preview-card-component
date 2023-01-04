@@ -14,7 +14,7 @@ body{
 
     main{
         width: 335px;
-        height: 630px;
+        height: 530px;
         /* left: 33px; */
         background: white;
         border-radius: 10px;
@@ -28,8 +28,9 @@ body{
     .text #cat{
         position: relative;
         font-weight: 525;
-        padding: 0 0 0 1.5rem;
+        padding: 0.5rem 0 0 1.5rem;
         letter-spacing: 0.3em;
+        font-size: 0.8rem;
 
         font-family: 'Noto Sans SC', sans-serif;    
         color: #938b8b;
@@ -38,9 +39,10 @@ body{
     .text #title{
         position: relative;
         font-weight: 1000;
-        padding: 0 0 0 1.5rem;
-        width: 280px;
-        font-size: 2em;
+        padding-left: 1.5rem;
+        width: 70%;
+        bottom: 10px;
+        font-size: 1.6em;
         font-family: 'Fraunces', serif;
         line-height: 1em;
     }
@@ -51,9 +53,10 @@ body{
         gap: 10px;
         position: relative;
         font-weight: 520;
-        padding: 0 0 0 1.5rem;
-        width: 295px;
-        font-size: 1em;
+        padding-left: 1.5rem;
+        width: 69%;
+        font-size: 0.8em;
+        bottom: 20px;
 
         line-height: 25px;
         font-family: 'Noto Sans SC', sans-serif;
@@ -62,9 +65,10 @@ body{
     
     .text #price{
         position: relative;
-        padding: 20rem 0 0 1.5rem;
+        padding-left:1.5rem;
+        bottom: 30px;
         width: 283px;
-        font-size: 1.95em;
+        font-size: 1.5em;
         font-weight: 1000;
         font-family: 'Fraunces', serif;
         color: #3D8168;
@@ -74,8 +78,8 @@ body{
     .text #price2{
         position: relative;
         font-size: 0.9em;
-        padding: 0 0 0 1rem;
-        bottom: 5px;
+        padding-left: 1rem;
+        bottom: 32px;
         width: 263px;
 
         text-decoration-line: line-through;
@@ -90,13 +94,13 @@ body{
         height: 15px;
         left: 12px;
         margin: auto;
-        bottom: -35px;
         width: 263px;
-        padding: 20px 110px;
+        padding: 15px 110px;
         background-color: #3D8168;
         color: white;
-        border-radius: 6px;
+        border-radius: 10px;
         font-family: 'Noto Sans SC', sans-serif;
+        bottom: 15px;
     }
 
     #cart:hover{
@@ -120,43 +124,43 @@ body{
 
     .text #cat{
         font-size: 0.8em;
-        bottom: 48em;
+        bottom: 40em;
         padding-left: 26rem;
     }
     
     .text #title{
         font-size: 2.5rem;
         width: 35%;
-        bottom: 15.5em;
+        bottom: 13em;
         padding-left: 26rem;
     }
     
     .text #desc{
         font-size: 1.3rem;
         width: 40%;
-        bottom: 29em;
+        bottom: 25em;
         padding-left: 26rem;
     }
     
     .text #price{
         font-size: 2.6rem;
         width: 40%;
-        bottom: 565px;
+        bottom: 510px;
         padding-left: 26rem;
     }
     
     .text #price2{
         width: 50%;
-        bottom: 41.5em;
-        padding-left: 37.5rem;
+        bottom: 37.9em;
+        padding-left: 37.7rem;
     }
     
     #cart{
         width: 215px;
         height: 15px;
         left: 27.9em;
-        top: -35em;
-        padding: 20px 115px;
+        top: -33em;
+        padding: 20px 110px;
     }
     
 
